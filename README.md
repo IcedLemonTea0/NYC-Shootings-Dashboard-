@@ -1,4 +1,4 @@
-# NYC Shootings : 2006 - 2021
+# [NYC Shootings : 2006 - 2021](https://public.tableau.com/app/profile/amirgm/viz/NYPD_ShootingsDashboard/MainDash)
 
 Exploratory data analysis on shootings across NYC between 2006 and 2021. This dashboard examines incidents using various granualities giving users the ability to identify KPi and trends of which shootings occured in a given period of time.   
 
